@@ -1,0 +1,7 @@
+Since Git GUI doesn't like empty folders, this is a placeholder.
+
+...
+
+What, did you expect anything special out of a placeholder?
+
+(Note: When creating a new folder, put in this .txt document, and remove the text within these parentheses, including the parentheses themselves.)
