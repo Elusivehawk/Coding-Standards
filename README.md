@@ -34,6 +34,8 @@ The format is rather simple, and tries not to deviate too much from standard cod
 
 * When in doubt, look at how Hawk's Format is set up.
 
+* If you abbreviate, think before you do it. "DB" *probably* stands for "DataBase", but what if it doesn't? People will go WTF is this person doing with his DB?!?!
+
 * Finally, if you have a choice between making a new class file and a new interface, make a new interface. Interfaces are NICE. :D
 
 
