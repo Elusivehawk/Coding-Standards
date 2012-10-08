@@ -1,4 +1,4 @@
-Since Git GUI doesn't like empty folders, this is a placeholder.
+Since GitHub doesn't like empty folders, this is a placeholder.
 
 ...
 
