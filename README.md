@@ -1,6 +1,6 @@
 # Coding-Standards
 
-The coding standards for Stupid Questions, Inc.! Follow them to the letter if you're working on code!
+The coding standards for Elusivehawk, LLC.! Follow them to the letter if you're working on code!
 
 
 ## How to Use
@@ -43,7 +43,7 @@ The format is rather simple, and tries not to deviate too much from standard cod
 
 In any given project, coders will be given tasks that will limit what they can do. This ensures coders will be able to squash a given set of bugs without being overwhelmed, while allowing for pull requests to be sent and received at will with minimum conflicts.
 
-Tasks will be posted in table format (From now on known as the Task Table) on the project's repository. If you're not listed on the Task Table, you can still code, but you will not be paid, and unless you work for Stupid Questions, Inc.,  contributed code will be considered "Community help", which can therefore be subjected to other limitations which will be defined on a per-project basis.
+Tasks will be posted in table format (From now on known as the Task Table) on the project's repository. If you're not listed on the Task Table, you can still code, but you will not be paid, and unless you work for Elusivehawk, LLC.,  contributed code will be considered "Community help", which can therefore be subjected to other limitations which will be defined on a per-project basis.
 
 
 ## Note
