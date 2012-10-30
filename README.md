@@ -12,9 +12,9 @@ In short, go into Eclipse and use the Hawk's Format.XML file that applies to wha
 
 The format is rather simple, and tries not to deviate too much from standard coding procedure:
 
-* Use 4-long tabs, and NEVER 4 space indents. Tabs allow for the coder to get past long indents without having to use the mouse. Also, do NOT use tabs that are longer or shorter than 4 spaces, in order to keep within convention.
+* Use 4-long tabs, and NEVER 4 space indents. Tabs allow for the coder to get past long indents without having to use the mouse. Also, do NOT use tabs that are longer or shorter than 4 spaces, in order to keep within convention. Exception: During Python code development, you may (And actually must) use 8-long tabs.
 
-* Use Eclipse. I'm dead serious, failure to use Eclipse for any given reason besides the use of a programming language Eclipse doesn't support will end very badly.
+* Use Eclipse. I'm dead serious, failure to use Eclipse for any given reason besides the use of a programming language Eclipse doesn't support will end very badly. Exception: you may use IDLE for Python development.
 
 * Document EVERYTHING. I don't care how long it takes, you made the code, you know how it works, document it!
 
