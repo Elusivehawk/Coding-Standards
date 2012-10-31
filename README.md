@@ -14,7 +14,7 @@ The format is rather simple, and tries not to deviate too much from standard cod
 
 * Use 4-long tabs, and NEVER 4 space indents. Tabs allow for the coder to get past long indents without having to use the mouse. Also, do NOT use tabs that are longer or shorter than 4 spaces, in order to keep within convention. Exception: During Python code development, you may (And actually must) use 8-long tabs.
 
-* Use Eclipse. I'm dead serious, failure to use Eclipse for any given reason besides the use of a programming language Eclipse doesn't support will end very badly. Exception: you may use IDLE for Python development.
+* Use Eclipse. I'm dead serious, failure to use Eclipse for any given reason besides the use of a programming language Eclipse doesn't support will end very badly. Exception: You may use IDLE for Python development.
 
 * Document EVERYTHING. I don't care how long it takes, you made the code, you know how it works, document it!
 
@@ -32,7 +32,7 @@ The format is rather simple, and tries not to deviate too much from standard cod
 
 * Textures and special effects come first, the only exception being in the creation of new worlds, maps, dimensions, etc.
 
-* When in doubt, look at how Hawk's Format is set up.
+* For anything not stated here, look at how Hawk's Format handles it.
 
 * If you abbreviate, think before you do it. "DB" *probably* stands for "DataBase", but what if it doesn't? People will go WTF is this person doing with his DB?!?!
 
@@ -43,7 +43,11 @@ The format is rather simple, and tries not to deviate too much from standard cod
 
 In any given project, coders will be given tasks that will limit what they can do. This ensures coders will be able to squash a given set of bugs without being overwhelmed, while allowing for pull requests to be sent and received at will with minimum conflicts.
 
+<<<<<<< HEAD
 Tasks will be posted in table format (From now on known as the Task Table) on the project's repository. If you're not listed on the Task Table, you can still code, but you will not be paid, and unless you work for Elusivehawk, LLC.,  contributed code will be considered "Community help", which can therefore be subjected to other limitations which will be defined on a per-project basis.
+=======
+Tasks will be posted in table format (From now on known as the Task Table) on the project's repository. If you're not listed on the Task Table, you can still code, but you will not receive compensation, and unless you work for Elusivehawk, LLC.,  contributed code will be considered "Community help", which can therefore be subjected to other limitations which will be defined on a per-project basis.
+>>>>>>> Updated README.MD.
 
 
 ## Note
