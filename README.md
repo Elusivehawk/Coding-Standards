@@ -28,7 +28,7 @@ The format is rather simple, and tries not to deviate too much from standard cod
 
 * Before trying to squash a bug, think about if it's not actually a bug, and if squashing it will create other bugs. I'm honestly sick and tired of people finding "bugs", "fixing" them, and then screwing up half the code base in the process.
 
-* Keep optimizations to a minimum. Optimizations not only open up new possibilities for bugs to crop up, but can also decrease the moddability of code. Really now, think before you optimize.
+* Keep refactoring to a minimum. Refactoring can not only open up new possibilities for bugs to crop up, but can also decrease the moddability of code. Really now, think before you refactor.
 
 * Textures and special effects come first, the only exception being in the creation of new worlds, maps, dimensions, etc.
 
@@ -43,11 +43,7 @@ The format is rather simple, and tries not to deviate too much from standard cod
 
 In any given project, coders will be given tasks that will limit what they can do. This ensures coders will be able to squash a given set of bugs without being overwhelmed, while allowing for pull requests to be sent and received at will with minimum conflicts.
 
-<<<<<<< HEAD
-Tasks will be posted in table format (From now on known as the Task Table) on the project's repository. If you're not listed on the Task Table, you can still code, but you will not be paid, and unless you work for Elusivehawk, LLC.,  contributed code will be considered "Community help", which can therefore be subjected to other limitations which will be defined on a per-project basis.
-=======
 Tasks will be posted in table format (From now on known as the Task Table) on the project's repository. If you're not listed on the Task Table, you can still code, but you will not receive compensation, and unless you work for Elusivehawk, LLC.,  contributed code will be considered "Community help", which can therefore be subjected to other limitations which will be defined on a per-project basis.
->>>>>>> Updated README.MD.
 
 
 ## Note
